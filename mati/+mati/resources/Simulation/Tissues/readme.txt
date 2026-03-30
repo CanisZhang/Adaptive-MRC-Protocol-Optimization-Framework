@@ -1,0 +1,2 @@
+This folder is the default folder that contains system pre-defined structure tissue files in the *.mat format. Please refer to the tissueGenerator examples about how tissue structures are generated. 
+When MATI GUI simulation toolbox opens, it automatically reads this folder and loads the *.mat file list into the GUI. Therefore, users can drop their own generated tissue structure files in this folder so that they can choose them from the dropdown list. 
